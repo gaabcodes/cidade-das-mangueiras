@@ -47,7 +47,7 @@ background-size: cover;
 
 Faça o download ou clone do repositório:
 
-git clone https://github.com/SEU-USUARIO/5-pontos-turisticos-belem.git
+git clone (https://gaabcodes.github.io/cidade-das-mangueiras/)
 
 # 🧲 Editores Utilizados
 
