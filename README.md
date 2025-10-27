@@ -9,15 +9,16 @@ Criação de um site dinamico e informativo sobre os pontos turistico da cidade 
 
 # Tecnologias
 * HTML
-* CSS <br>
+* CSS
+<br>
 **Aliada a ferramenta PARALLAX do CSS, gera-se uma rolagem dinámica e interativa das imagens durante a passagem dos textos de cada imagem**
 
 # Modo de uso
-É possivel abrir em qualquer navegador com internet
+Abrir em qualquer navegador com internet
 
 ## 💻 Estrutura do Código
 Na estrutura do HTML foram usadas classes iguais pra cada item ou seja, as estilizações no CSS foram definidas em conjunto não havendo exagero de código.
-<img src ="codigo.png" width="100px">
+<img src="codigo.png">
 Na parte de adicionar as imagens colocamos diretamente todas elas no CSS, de forma simples e direta
 além de, apenas algumas linhas de codigo acrescentar a ferramenta do parallax que é super facil de usar também.
 
