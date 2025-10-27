@@ -18,9 +18,11 @@ Abrir em qualquer navegador com internet
 
 ## 💻 Estrutura do Código
 Na estrutura do HTML foram usadas classes iguais pra cada item ou seja, as estilizações no CSS foram definidas em conjunto não havendo exagero de código.
-<img src="codigo.png">
+<img src="imagens/codigo.png" alt="Texto alternativo para a imagem" width="250">
+
 Na parte de adicionar as imagens colocamos diretamente todas elas no CSS, de forma simples e direta
 além de, apenas algumas linhas de codigo acrescentar a ferramenta do parallax que é super facil de usar também.
+<img src="imagens/codigo.png" alt="Texto alternativo para a imagem" width="500">
 
 # 🛠️ Editores de código:
 * VSCODE
