@@ -60,8 +60,3 @@ git clone https://gaabcodes.github.io/cidade-das-mangueiras/
 Este projeto foi uma excelente oportunidade para praticar os fundamentos do Desenvolvimento Web, reforçando conhecimentos em HTML, CSS e efeitos visuais com Parallax.
 Além do aprendizado técnico, também permitiu o exercício da organização de conteúdo e da criação de uma experiência visual agradável para o usuário.
 
-✨ Autora<br>
-Gabrieli Mendes<br>
-💻 Desenvolvedora Front-end em formação <br>
-📍 Belém/PA<br>
-🔗 www.linkedin.com/in/gabrieli-oliveira-mendes
