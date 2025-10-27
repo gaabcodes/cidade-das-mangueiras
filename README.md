@@ -24,7 +24,7 @@ Na estrutura do HTML foram usadas classes iguais pra cada item ou seja, as estil
 Na parte de adicionar as imagens colocamos diretamente todas elas no CSS, de forma simples e direta até mesmo pra simplificar código
 e com apenas algumas linhas acrescentar a ferramenta do PARALLAX, que é super facil de se utilizar.
 <br>
-<img src="imagens/codigo-2.png" alt="exemplo2" width="500">
+<img src="imagens/cod2.png" alt="exemplo2" width="500">
 
 # Editores de código:
 * VSCODE
