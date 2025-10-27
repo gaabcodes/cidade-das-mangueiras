@@ -1,32 +1,67 @@
-# 5 pontos turisticos de Belém/PA
-Um projeto simples desenvolvido durante a disciplina de Desenvolvimento Web da Faculdade.
+# 🌆5 Pontos Turísticos de Belém/PA
 
-# Objetivo
-Criação de um site dinamico e informativo sobre os pontos turistico da cidade descrevendo brevemento cada lugar, sua importância e seu contexto histórico na construção da cidade.
+Um projeto desenvolvido durante a disciplina de Desenvolvimento Web, com o objetivo de aplicar conceitos de HTML e CSS na criação de um site informativo e visualmente atrativo sobre os principais pontos turísticos da cidade de Belém do Pará.
 
-# Layout
+# 🎯Objetivo
+Construir uma página dinâmica e informativa que apresente cinco pontos turísticos importantes da cidade, destacando brevemente suas histórias, relevância cultural e beleza arquitetônica.
+Além disso, o projeto buscou explorar técnicas de design visual e efeitos de rolagem com Parallax para proporcionar uma experiência de navegação fluida e interativa.
+
+# 🎨Layout
+O site é dividido em seções, cada uma dedicada a um ponto turístico, intercaladas por imagens de fundo com efeito de Parallax, criando uma sensação de profundidade e movimento durante a rolagem da página.<br>
 <img width="500" height="500" src="https://github.com/user-attachments/assets/7cb867ac-0f95-413d-b359-58fd62aafa91" />
 
 # Tecnologias
 * HTML
 * CSS
 
-Aliada a ferramenta PARALLAX do CSS, gera-se uma rolagem dinámica e interativa das imagens durante a passagem dos textos de cada imagem
+Com o uso da propriedade background-attachment: fixed, o efeito Parallax foi implementado de forma simples e eficiente, permitindo que as imagens de fundo se mantenham fixas enquanto o conteúdo textual se move
 
-# Modo de uso
-Abrir em qualquer navegador com internet
-
-## Estrutura do Código
-Na estrutura do HTML foram usadas classes iguais pra cada item ou seja, as estilizações no CSS foram definidas em conjunto não havendo exagero de código.
+# 📚 Conceitos e Aprendizados<br>
 <br>
-<img src="codigo.png" alt="exemplo1" width="500">
+🧱HTML
 
-Na parte de adicionar as imagens colocamos diretamente todas elas no CSS, de forma simples e direta até mesmo pra simplificar código
-e com apenas algumas linhas acrescentar a ferramenta do PARALLAX, que é super facil de se utilizar.
-<br>
-<img src="codigo2.png" alt="exemplo2" width="500">
+Estruturação semântica da página com divs, headings e parágrafos;
 
-# Editores de código:
-* VSCODE
-* SUBLIME
+Organização de seções representando cada ponto turístico;
 
+Uso de classes reutilizáveis para padronizar o estilo das seções e otimizar o código;
+
+Aplicação de tags de formatação e hierarquia de conteúdo para melhorar a legibilidade.
+
+🎨 CSS
+
+Criação de layouts verticais com espaçamento e centralização de conteúdo;
+
+Aplicação de imagens de fundo por meio de classes específicas (.imagem1, .imagem2, etc.);
+
+Utilização do efeito Parallax com:
+
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+
+- Redução da repetição de código com o uso de classes genéricas para múltiplas seções; <br>
+- Exploração de tipografia e cores suaves para destacar o conteúdo textual.
+
+# ⚙️ Modo de Uso
+
+Faça o download ou clone do repositório:
+
+git clone https://github.com/SEU-USUARIO/5-pontos-turisticos-belem.git
+
+# 🧲 Editores Utilizados
+
+- Visual Studio Code
+
+- Sublime Text
+
+#  👩‍💻Conclusão
+
+Este projeto foi uma excelente oportunidade para praticar os fundamentos do Desenvolvimento Web, reforçando conhecimentos em HTML, CSS e efeitos visuais com Parallax.
+Além do aprendizado técnico, também permitiu o exercício da organização de conteúdo e da criação de uma experiência visual agradável para o usuário.
+
+✨ Autora<br>
+Gabrieli Mendes<br>
+💻 Desenvolvedora Front-end em formação <br>
+📍 Belém/PA<br>
+🔗 www.linkedin.com/in/gabrieli-oliveira-mendes
